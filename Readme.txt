@@ -1,0 +1,1 @@
+A utility designed to rename files in a helpful and standardized way.
